@@ -1,5 +1,3 @@
-# Some Handwritten Notes
-
 Document | Description
 -------- | -----------
 [Geometric Algebra - Complex Numbers Without The Square Root Of Minus One](<Geometric Algebra - Complex Numbers Without The Square Root Of Minus One - Russell Goyder - metauni - Jan 2023.pdf >) | Notes from a talk given at the 2023 [metauni festival](https://metauni.org/festival/) | 
