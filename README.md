@@ -1,7 +1,7 @@
 Document | Description
 -------- | -----------
-[Geometric Algebra - Complex Numbers Without The Square Root Of Minus One](<Geometric Algebra - Complex Numbers Without The Square Root Of Minus One - Russell Goyder - metauni - Jan 2023.pdf >) | Notes from a talk given at the 2023 [metauni festival](https://metauni.org/festival/) | 
-[Physical And Information Entropy](<Physical And Information Entropy - Russell Goyder - metauni - Nov 2022.pdf>) | Notes from a talk in the [metauni SLT seminar](https://metauni.org/slt/) series
+Download PDF: [Geometric Algebra - Complex Numbers Without The Square Root Of Minus One](<Geometric Algebra - Complex Numbers Without The Square Root Of Minus One - Russell Goyder - metauni - Jan 2023.pdf >) | Notes from a talk given at the 2023 [metauni festival](https://metauni.org/festival/) | 
+Download PDF: [Physical And Information Entropy](<Physical And Information Entropy - Russell Goyder - metauni - Nov 2022.pdf>) | Notes from a talk in the [metauni SLT seminar](https://metauni.org/slt/) series
 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
