@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Some Handwritten Notes
 description: Miscellaneous collection of notes from past projects
+github:
+  owner_url: https://russellgoyder.ca
