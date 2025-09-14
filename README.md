@@ -6,7 +6,7 @@ Information Theory and AI
 
 [How the binomial, Poisson and normal distributions are related to each other.pdf](<How the binomial, Poisson and normal distributions are related to each other.pdf>) - from my PhD days
 
-[Unbiassed Parameter Estimation.pdf](<Unbiassed parameter estimation.pdf>) is a note taken from two parts of [Edwin Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes)' wonderful book *Probability Theory*, which explains the mysterious "N-1" part of the formula for the standard deviation of the mean, and gives some insight into mean vs media vs mode.
+[Unbiassed Parameter Estimation.pdf](<Unbiassed parameter estimation.pdf>) is a note taken from two parts of [Edwin Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes)' wonderful book *Probability Theory*, which explains the mysterious "N-1" part of the formula for the standard deviation of the mean, and gives some insight into mean vs median vs mode.
 
 Physics
 =======
