@@ -8,6 +8,8 @@ Information Theory and AI
 
 [Unbiassed Parameter Estimation.pdf](<Unbiassed parameter estimation.pdf>) is a note taken from two parts of [Edwin Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes)' wonderful book *Probability Theory*, which explains the mysterious "N-1" part of the formula for the standard deviation of the mean, and gives some insight into mean vs median vs mode.
 
+[The Abnormal Normal Distribution.pdf](<The Abnormal Normal Distribution.pdf>) - also from Jaynes's book. The normal distribution is anything but. This note follows Chapter 7 and explores how abnormal the normal distribution really is.
+
 Physics
 =======
 
