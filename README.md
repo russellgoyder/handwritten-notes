@@ -27,6 +27,8 @@ Geometry and Algebra
 
 [Geometric Algebra - Complex Numbers Without The Square Root Of Minus One.pdf](<Geometric Algebra - Complex Numbers Without The Square Root Of Minus One - Russell Goyder - metauni - Jan 2023.pdf >) - Notes from a talk given at the 2023 [metauni festival](https://metauni.org/festival/)
 
+[The Fundamental Theorem of Geometric Calculus.pdf](<The Fundamental Theorem of Geometric Calculus.pdf >) - The (flat space) Geometric Algebra version of generalized Stokes and relationship with complex analysis and Cauchy's integral formula.
+
 Thermometry
 ===========
 
